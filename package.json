@@ -1,0 +1,11 @@
+{
+  "name": "shoreline",
+  "version": "0.0.0",
+  "description": "String concatenation.",
+  "main": "concat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irl Nathan",
+  "license": "MIT"
+}
